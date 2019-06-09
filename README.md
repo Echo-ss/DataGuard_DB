@@ -1,0 +1,2 @@
+# DataGuard_DB
+쉘_스크립트를_이용한_DATA_GUARD_자동화
